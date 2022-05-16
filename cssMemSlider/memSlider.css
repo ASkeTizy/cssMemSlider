@@ -39,20 +39,24 @@ width: 100%;
  }
 .slide__1{
     background-image: url(assets/1.jpg);
-    background-size: cover no-repeat;
+   background-size: cover ;
+    background-repeat:no-repeat ;
      transition: margin-left .65s;
 }
 .slide__2{
      background-image: url(assets/2.jpg);
-    background-size: cover no-repeat;
+    background-size: cover ;
+    background-repeat:no-repeat ;
 }
 .slide__3{
      background-image: url(assets/3.jpg);
-    background-size: cover no-repeat;
+     background-size: cover ;
+    background-repeat:no-repeat ;
 }
 .slide__4{
     background-image: url(assets/4.jpg);
-    background-size: cover no-repeat;
+     background-size: cover ;
+    background-repeat:no-repeat ;
 }
 .titles{
      display: flex;
